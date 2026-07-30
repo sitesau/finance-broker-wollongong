@@ -1,0 +1,16 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| A licensed specialist can compare loans from multiple lenders and explain suitable options for home loans, refinancing and commercial finance, with a free initial consultation. | SUPPORTED | MONEY_PAGE_TEXT says: “A licensed specialist can compare loans from multiple lenders and explain suitable options for home loans, refinancing and commercial finance, with a free initial consultation.” |
+| Over 75% of Australian home loans are arranged through mortgage brokers according to MFAA data. | SUPPORTED | The page says: “With over 75% of Australian home loans now arranged through mortgage brokers (according to MFAA data)…” |
+| Broker services are typically free for borrowers because lenders pay commissions. | SUPPORTED | The page says: “Broker services are typically free for borrowers. Lenders pay broker commissions, not you.” |
+| A broker can provide access to multiple lenders including major banks and specialist lenders. | SUPPORTED | The page says: “Access a panel of lenders including major banks and specialist lenders for better choice.” |
+| Mortgage brokers are legally required to act in a borrower's best interests. | SUPPORTED | The page says: “Brokers are legally required to act in your best interests” and “mortgage brokers must legally prioritise your interests when recommending products.” |
+| The source page identifies first home buyers, refinancers, investors, commercial borrowers, construction borrowers and equipment or vehicle finance borrowers as relevant scenarios. | SUPPORTED | The page has sections for “Home Loans & First Home Buyer,” “Refinancing & Debt Consolidation,” “Investment Property Loans,” “Commercial & Business Finance,” “Construction & Renovation Loans,” and “Equipment & Vehicle Finance.” |
+| Construction loans require specialist knowledge of progress payments and builder finance structures. | SUPPORTED | The page says: “Construction loans in Wollongong require specialist knowledge of progress payments and builder finance structures.” |
+| The broker you engage should hold an Australian Credit Licence or operate as an authorised credit representative, and brokers are regulated by ASIC. | SUPPORTED | The page says: “The broker you engage should hold an Australian Credit Licence (ACL) or operate as an authorised credit representative. They're regulated by ASIC…” |
+| The Best Interests Duty was introduced in 2021. | SUPPORTED | The page says: “Under the Best Interests Duty introduced in 2021…” |
+| The source page describes a three step process of discussing goals, comparing options and handling paperwork through to settlement. | SUPPORTED | The process section says: “1 Tell Us Your Goals,” “2 We Find Options,” and “3 You Choose & Settle … we handle all paperwork through to settlement.” |
+| Typical commissions are stated as 0.65 to 0.70% upfront and 0.15% trail annually. | SUPPORTED | The FAQ says brokers are paid by lenders through commissions “typically 0.65-0.70% upfront, 0.15% trail annually.” |
+| Fees may apply for complex or commercial loans and should be disclosed upfront. | SUPPORTED | The FAQ says: “Fees may apply for complex or commercial loans in some cases – this will always be disclosed upfront.” |
+
+FACT-CHECK: PASS
